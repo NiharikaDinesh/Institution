@@ -1,0 +1,80 @@
+body{
+    background-color: #d0efff;
+}
+
+#blogimg{
+  margin:20px 20px 20px 20px;
+}
+.testimonial-image{
+  height:20%;
+  width:100%;
+}
+
+.coimg{
+  height:300px;
+  width:260px;
+}
+footer{
+  margin-top: 60px;
+  /* padding-left:7%;
+  padding-right:7%; */
+  background-color: #1167b1;
+	min-width:500px;
+
+}
+footer h5, footer p{
+  color:white;
+}
+footer h5{
+  font-size: 15px;
+  padding-top:20px;
+
+}
+footer p{
+  font-size:13px;
+
+}
+footer .column {
+
+  float: left;
+  width: 24%;
+  text-align:center;
+  float:left;
+  height: auto;
+padding-left:1%;
+	padding-right:1%;
+
+
+}
+footer .row{
+  width:91vw;
+}
+footer .row::after{
+  padding:2px;
+
+}
+
+footer .icons{
+  color:white;
+  text-align:center;
+}
+footer .icons ul li{
+  list-style-type:none;
+  padding:8px 8px;
+  font-size:30px;
+}
+footer #copyright{
+  text-align:center;
+}
+
+.ml15 {
+  font-weight: 800;
+  font-size: 20px;
+  text-transform: uppercase;
+  /* letter-spacing: 0.1em; */
+}
+
+.ml15 .word {
+  display: inline-block;
+  line-height: 1em;
+}
